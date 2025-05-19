@@ -1,0 +1,16 @@
+body {
+    font-family: 'sagoe UI, sans-serif';
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+img {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 2rem;
+}
